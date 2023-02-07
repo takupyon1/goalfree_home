@@ -238,6 +238,36 @@ img{
     .copyright{
         margin-top:50px;
     }
+    
+    .first-view{
+        height:calc(100vh - 50px);
+        background-image:url(bg-main1-sp.jpg);
+        align-items: flex-start;
+    }
+
+    .first-view-text{
+        padding-top:60px;
+        padding-left:20px;
+    }
+
+    .first-view-text h1{
+        font-size:36px;
+        line-height:48px;
+    }
+
+    .first-view-text p{
+        font-size:14px;
+        margin-top:15px;
+    }
+
+    .lead{
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+
+    .lead p{
+        text-align: left;
+    }
 }
 
 
