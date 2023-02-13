@@ -184,7 +184,10 @@ img{
 }
 
 .item-list{
-    display:flex;
+/*     display:flex; */
+    display:inline-block;
+    height:80px;
+    
     padding-top:40px;
     padding-bottom:10px;
     padding-left:60px;
